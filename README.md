@@ -25,7 +25,7 @@ I'm a Python developer
 
 - :fish: In my free time, I solve problems on Codewars and read tech articles.
 
-- :fish: My contacts [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andrej.ivanovskij.17@mail.ru)
+- :fish: My contacts [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jjok4107@gmail.com)
 
 ---
 
